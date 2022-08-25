@@ -1,0 +1,48 @@
+#desertImage {
+    height: 194px;
+    width: 344px;
+}
+
+#person-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+
+}
+
+#primaryText {
+    color: #000;
+    size: 22px;
+}
+
+body {
+    
+    color: #232F34;
+}
+
+.secondaryText {
+    color: #232F34;
+}
+
+#bodyText {
+    padding: 16px;
+}
+
+.Container1 {
+    padding: 16px;
+    
+
+}
+
+.Column1 {
+    width: 25%;
+    float: left;
+
+}
+
+.Column2 {
+    text-align: justify;
+    width: 70%;
+    margin-left: 5%;
+}
